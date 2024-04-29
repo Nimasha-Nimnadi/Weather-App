@@ -14,7 +14,7 @@ This is a simple weather application that utilizes the OpenWeatherMap API to pro
 
 ## Technologies Used
 
-- **Programming Languages**: JavaScript (Node.js)
+- **Programming Languages**: JavaScript 
 - **Frontend Framework**: HTML, CSS
 - **External API**: OpenWeatherMap API
 
